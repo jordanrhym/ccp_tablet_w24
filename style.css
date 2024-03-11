@@ -158,6 +158,7 @@ ul, ol {
     margin: 4%;
     padding: 4%;
     border-radius: 10px;
+    height: fit-content;
 }
 
 .figurecaption figure {
